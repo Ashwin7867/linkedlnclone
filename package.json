@@ -1,0 +1,55 @@
+{
+  "name": "linkedlnclone2",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.15.6",
+    "@react-native-community/checkbox": "^0.5.8",
+    "@react-native-masked-view/masked-view": "^0.2.6",
+    "@react-navigation/bottom-tabs": "^6.0.7",
+    "@react-navigation/drawer": "^6.1.8",
+    "@react-navigation/material-bottom-tabs": "^6.0.9",
+    "@react-navigation/material-top-tabs": "^6.0.4",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/stack": "^6.0.11",
+    "@reduxjs/toolkit": "^1.6.2",
+    "axios": "^0.22.0",
+    "package.json": "^2.0.1",
+    "react": "17.0.2",
+    "react-native": "0.66.1",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-otp-textinput": "0.0.8",
+    "react-native-paper": "^4.9.2",
+    "react-native-reanimated": "^2.2.3",
+    "react-native-responsive-screen": "^1.4.2",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.8.0",
+    "react-native-tab-view": "^3.1.1",
+    "react-native-uuid": "^2.0.1",
+    "react-native-vector-icons": "^8.1.0",
+    "react-redux": "^7.2.5",
+    "redux": "^4.1.1",
+    "redux-logger": "^3.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/runtime": "^7.15.4",
+    "@react-native-community/eslint-config": "^3.0.1",
+    "babel-jest": "^27.3.1",
+    "eslint": "^8.0.1",
+    "jest": "^27.3.1",
+    "metro-react-native-babel-preset": "^0.66.2",
+    "react-test-renderer": "17.0.2",
+    "typescript": "^4.4.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

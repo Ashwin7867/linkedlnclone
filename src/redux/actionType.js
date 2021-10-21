@@ -1,0 +1,3 @@
+export const ADD_FEED_DATA = "ADD_FEED_DATA"
+export const ALTER_FEED_LIKE = "ALTER_FEED_LIKE";
+export const ADD_FEED_COMMENT= "ADD_FEED_COMMENT"
